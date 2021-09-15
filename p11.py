@@ -16,3 +16,7 @@ print(e, type(e))
 
 f= False
 print(f, type(f))
+# here a is integer
+# b is float
+# c and d are string
+# e and f are boolean
